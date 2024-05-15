@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="40dcddff93820210b6faf15a7bba100e" label="Payment Method" max_length="40" name="x_1098467_krafton_payment_method" type="collection"/>
+</database>
